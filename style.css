@@ -1,0 +1,43 @@
+body {
+    background-image: url(https://www.hollywoodreporter.com/wp-content/uploads/2017/03/vd114b_1722b.jpg?w=1296&h=730&crop=1);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+h1 {
+    background-color: rgb(160, 110, 48);
+    text-align: center;
+}
+
+.container {
+    width: 900px;
+    text-align:center;
+    margin: 20px auto;
+    
+
+}
+
+h2 {
+    background-color: rgb(160, 110, 48);
+    color: rgb(17, 17, 17);
+    text-align: center;
+}
+
+#awalan {
+    background-color: rgb(240, 173, 93);
+    color: rgb(15, 15, 15);
+    text-align: center;
+    border: 5px dotted;
+}
+
+#pengantar{
+    background-color: rgb(240, 173, 93);
+    color: rgb(15, 15, 15);
+    text-align: center;
+    border: 5px dotted;
+}
+
+p{
+    padding: 20px;
+    text-align: justify;
+}
